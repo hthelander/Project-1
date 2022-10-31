@@ -1,7 +1,7 @@
 # Healthy Hunger Free Kids Act and its Effects on Obesity in the United States 
 
 ## Overview
-In this collaborative repository, the relationship between the inaction of the Healthy Hunger Free Kids Act (HHFKA) and obesity rates betweeen children of school age was analyzed. HHFKA was put into effect 2010 and was designed to provide more nutritious food for school age children as well as free lunch programs. Users utilized jupyter notebook to analyze the data and matplotlib to visualize the results. 
+In this collaborative repository, the relationship between the initiation of the Healthy Hunger Free Kids Act (HHFKA) and obesity rates betweeen children of school age was analyzed. HHFKA was put into effect 2010 and was designed to provide more nutritious food for school age children as well as free lunch programs. Users utilized jupyter notebook to analyze the data and matplotlib to visualize the results. 
 
 ## Analysis
 

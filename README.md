@@ -35,7 +35,7 @@ Anova and boxplot analysis revealed statistical changes of obesity from 2001 - 2
 
 ## Observations
 
-The graph below was created to track the trend of obesity rates from 1988-2018 between the ages of 2-19. Between the years of 1988-1994 the obesity rate was at the lowest of all the years with a rate of 10%. When the HHFK Act was implemented the rates were steady with a slight increase, but overall 2018 was the highest of all years with a obesity rate of 19%.
+A line graph was created to track the trend of obesity rates from 1988-2018 between the ages of 2-19. Between the years of 1988-1994 the obesity rate was at the lowest of all the years with a rate of 10%. When the HHFK Act was implemented the rates were steady with a slight increase, but overall 2018 was the highest of all years with a obesity rate of 19%.
 
 
 

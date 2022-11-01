@@ -27,21 +27,21 @@ Matplotlib was used to visualize the results of the relationship between the dat
 
 Anova equations and linear regression were used to determine if there had been a statistically significant change in childhood obesity from the years 2001 - 2019.  
 
-![]("Images/anova_analysis")
+![](Images/anova_analysis.png)
 
 Anova and boxplot analysis revealed statistical changes of obesity from 2001 - 2019.  The scatterplot below shows the percent of obesity by year for all states in the USA. Linear regression on this plot clearly indicates that the obesity rate has been growing as the year pass by. The r-squared value of the regression is 0.25, which indicates that only 25% of the Variance is accounted for.
 
-![]("Images/scatterplot_1)
+![](Images/scatterplot_1.png)
 
 ## Observations
 
 The graph below was created to track the trend of obesity rates from 1988-2018 between the ages of 2-19. Between the years of 1988-1994 the obesity rate was at the lowest of all the years with a rate of 10%. When the HHFK Act was implemented the rates were steady with a slight increase, but overall 2018 was the highest of all years with a obesity rate of 19%.
 
-![]("Images/'Image of overall'")
+
 
 
 We also see that the HHFK failed to impact other factors, such as child nutrition and exercise, in the graph below:
-![]("Images/factors_in_obesity") 
+![](Images/factors_in_obesity.png) 
 
 
 
@@ -54,8 +54,8 @@ It is important to consider that other factors may have had an effect on the out
 Analysis of data shows that childhood obesity continues to rise.  Although there is a statistically significant difference in obesity rates within our dataset, it actually points to a continued rise in obesity, rather than a decrease.  
 Analysis of obesity in young adults also points to an increase in recent years, indicating that the program did not have long-term effects on students who took part in it.  
 
-![]("Images/obesity_pie_2015)
-![]("Images/obesity_pie_2020)
+![](Images/obesity_pie_2015.png)
+![](Images/obesity_pie_2020.png)
 
 
 ### Percent of children (5-17) in Poverty from 2003-2020
@@ -63,5 +63,5 @@ Analysis of obesity in young adults also points to an increase in recent years, 
 The effects of poverty in relation to child obesity rates were analyzed. It was found that the year 2012 had the highest percentage of poverty rates in the United States as a whole at 21% ages 5-17 in poverty .The year 2020 had the lowest percentage with 14.9% of children ages 5-17 in poverty.
 
 A five year analysis (2005, 2010, 2015, and 2020) of poverty statistics in the United States was also analyzed. 2010 was found to have the highest percentage between the four years at 19.8% of this population in poverty. 
-![](./Resources/bar_graph_all_years.png)
+![](Images/bar_graph_all_years.png)
 

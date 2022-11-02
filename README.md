@@ -65,3 +65,17 @@ The effects of poverty in relation to child obesity rates were analyzed. It was 
 A five year analysis (2005, 2010, 2015, and 2020) of poverty statistics in the United States was also analyzed. 2010 was found to have the highest percentage between the four years at 19.8% of this population in poverty. 
 ![](Images/bar_graph_all_years.png)
 
+Although data did show that obesity was more common in children from homes under the federal poverty limit than for children in the overall population, it's clear that poverty alone does not account for the continuing rise in obesity, as we see rates of obesity continue to rise even as poverty rates plateau or decline.  
+
+## Conclusions
+
+The HHFK act did not reach its stated goals of reducing childhood obesity and encouraging healthier lifestyles.  Childhood obesity rates continued to climb after the passage of HHFK.  
+
+There were a number of variables and limitations to our data set that may have affected this trend. 
+    Poverty and fluctuation of the national economy influences the affordability and availability of nutritious food 
+
+    The success of individual schools in implementing the program goals could not be accurately determined
+
+    Personal habits and access to food and exercise outside of school could not be identified 
+
+All of these factors potentially influence obesity rates.  Based on the analysis we performed, it's clear that school policies alone are not sufficient to impact childhood obesity rates.  Changes to diet and exercise in the larger community and especially in individual homes are also needed to reduce childhood obesity in the US.
